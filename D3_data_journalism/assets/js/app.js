@@ -89,5 +89,6 @@ d3.csv("assets/data/data.csv").then(function (journalismData) {
 // RESOURCE FOR SVG ELEMENTS: https://developer.mozilla.org/en-US/docs/Web/SVG/Element
 // RESOURCE FOR SVG ATTRIBUTES: https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute
 // RESOURCE FOR SVG <G>: https://developer.mozilla.org/en-US/docs/Web/SVG/Element/g
+// RESOURCE FOR d3.scaleLinear(): https://observablehq.com/@d3/d3-scalelinear
 // RESOURCE FROM D3 CLASS: https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/uofo-por-data-pt-09-2020-u-c/-/blob/master/16-D3/3/Activities/08-Stu_Transitions/Solved/app.js
-// NEXT STEPS: Look @ other class activities that use the CX and CY in rows 78-79
+// NEXT STEPS (RAINA'S HINT): Look @ other class activities that use the CX and CY in rows 78-79
